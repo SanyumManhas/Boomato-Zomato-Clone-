@@ -1,0 +1,45 @@
+h2{
+    padding-top:20px;
+    padding-left:20px;
+}
+
+.order-restaurant{
+    width:550px;
+    border-radius: 15px;
+    box-shadow: 10px 0px 25px rgba(0,0,0,0.5);
+    display:flex;
+    flex-direction: column;
+    margin:20px;
+}
+
+.order-item{
+    margin-left:10px;
+    width:95%;
+    height:50px;
+    border-radius:10px;
+    margin-bottom:10px;
+    box-shadow: -1px 1px 1px rgba(0,0,0,0.5);
+    display: flex;
+    padding:10px;
+    color: grey;
+}
+.order-item p{
+    width:50%;
+}
+
+.order-heading{
+    font-size:35px;
+    height:95px;
+    padding:7px;
+    margin-bottom:10px;
+}
+
+.order-heading p{
+    font-size:19px;
+    color: grey;
+}
+
+#total{
+    box-shadow: none;
+    color:red;
+}

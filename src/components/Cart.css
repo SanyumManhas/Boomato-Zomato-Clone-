@@ -1,0 +1,9 @@
+table{
+    width:100%;
+}
+
+tr, th{
+    text-align: center;
+}
+
+tr:hover {background-color: #D6EEEE;}
